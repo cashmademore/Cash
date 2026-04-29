@@ -1,0 +1,8 @@
+{
+  "name": "CoPilot AI IDE Interface",
+  "description": "An interactive IDE interface featuring a simulated task subagent planner and an AI visual avatar using Three.js. Includes text-to-speech feedback.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
